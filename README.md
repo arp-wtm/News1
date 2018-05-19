@@ -48,3 +48,5 @@ build.gradle dependencies {<br>
  * limitations under the License.<br>
  */<br>
 
+All news displayed come from https://open-platform.theguardian.com
+© 2016 Guardian News and Media Limited or its affiliated companies. All rights reserved.
